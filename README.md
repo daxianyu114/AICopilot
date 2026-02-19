@@ -1,6 +1,7 @@
 # AICopilot
 
 AICopilot is an Unreal Engine editor plugin that adds tooling and UI to assist workflows, including settings management, commands, and custom Slate windows.
+Configure your model to let AI assist you with editing.
 
 ## Features
 - Editor commands and toolbar/menu integration
